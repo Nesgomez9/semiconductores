@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/semiconductores/static/css/main.1ef7b8f5.chunk.css",
+    "main.js": "/semiconductores/static/js/main.5df41ee5.chunk.js",
+    "main.js.map": "/semiconductores/static/js/main.5df41ee5.chunk.js.map",
+    "runtime-main.js": "/semiconductores/static/js/runtime-main.ca4d9439.js",
+    "runtime-main.js.map": "/semiconductores/static/js/runtime-main.ca4d9439.js.map",
+    "static/js/2.f81f1784.chunk.js": "/semiconductores/static/js/2.f81f1784.chunk.js",
+    "static/js/2.f81f1784.chunk.js.map": "/semiconductores/static/js/2.f81f1784.chunk.js.map",
+    "static/js/3.ae267000.chunk.js": "/semiconductores/static/js/3.ae267000.chunk.js",
+    "static/js/3.ae267000.chunk.js.map": "/semiconductores/static/js/3.ae267000.chunk.js.map",
+    "index.html": "/semiconductores/index.html",
+    "static/css/main.1ef7b8f5.chunk.css.map": "/semiconductores/static/css/main.1ef7b8f5.chunk.css.map",
+    "static/js/2.f81f1784.chunk.js.LICENSE.txt": "/semiconductores/static/js/2.f81f1784.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca4d9439.js",
+    "static/js/2.f81f1784.chunk.js",
+    "static/css/main.1ef7b8f5.chunk.css",
+    "static/js/main.5df41ee5.chunk.js"
+  ]
+}
